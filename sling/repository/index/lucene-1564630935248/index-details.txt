@@ -1,0 +1,5 @@
+#Index metadata
+#Thu Aug 01 10:29:01 CDT 2019
+indexPath=/oak\:index/lucene
+creationTime=1564673341333
+metaFormatVersion=1

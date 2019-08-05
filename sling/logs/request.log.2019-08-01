@@ -1,0 +1,8 @@
+01/Aug/2019:10:35:49 -0500 [0] -> GET /repository/default/ HTTP/1.1
+01/Aug/2019:10:35:49 -0500 [0] <- 404 text/html 30ms
+01/Aug/2019:11:05:19 -0500 [1] -> GET /packageregistry HTTP/1.1
+01/Aug/2019:11:05:19 -0500 [1] <- 404 text/html 3ms
+01/Aug/2019:11:05:43 -0500 [2] -> GET //etc/packages HTTP/1.1
+01/Aug/2019:11:05:43 -0500 [2] <- 404 text/html 3ms
+01/Aug/2019:11:05:46 -0500 [3] -> GET /etc/packages HTTP/1.1
+01/Aug/2019:11:05:46 -0500 [3] <- 404 text/html 3ms

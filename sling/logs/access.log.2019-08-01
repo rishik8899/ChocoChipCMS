@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - anonymous 01/Aug/2019:10:35:49 -0500 "GET /repository/default/ HTTP/1.1" 404 2543 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+0:0:0:0:0:0:0:1 - anonymous 01/Aug/2019:11:05:19 -0500 "GET /packageregistry HTTP/1.1" 404 2501 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+0:0:0:0:0:0:0:1 - anonymous 01/Aug/2019:11:05:43 -0500 "GET //etc/packages HTTP/1.1" 404 2481 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+0:0:0:0:0:0:0:1 - anonymous 01/Aug/2019:11:05:46 -0500 "GET /etc/packages HTTP/1.1" 404 2472 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"

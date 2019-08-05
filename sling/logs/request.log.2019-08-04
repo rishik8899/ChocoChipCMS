@@ -1,0 +1,186 @@
+04/Aug/2019:00:15:05 -0500 [4159] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4159] <- 207 text/xml; charset=UTF-8 31ms
+04/Aug/2019:00:15:05 -0500 [4160] -> PROPFIND /._. HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4160] <- 404 text/html 2ms
+04/Aug/2019:00:15:05 -0500 [4161] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4161] <- 207 text/xml; charset=UTF-8 4ms
+04/Aug/2019:00:15:05 -0500 [4162] -> PROPFIND /htl/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4162] <- 207 text/xml; charset=UTF-8 1ms
+04/Aug/2019:00:15:05 -0500 [4163] -> PROPFIND /htl/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4163] <- 207 text/xml; charset=UTF-8 1ms
+04/Aug/2019:00:15:05 -0500 [4164] -> PROPFIND /home/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4164] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4165] -> PROPFIND /home/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4165] <- 207 text/xml; charset=UTF-8 4ms
+04/Aug/2019:00:15:05 -0500 [4166] -> PROPFIND /oak%3Aindex/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4166] <- 207 text/xml; charset=UTF-8 5ms
+04/Aug/2019:00:15:05 -0500 [4167] -> PROPFIND /oak%3Aindex/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4167] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:00:15:05 -0500 [4168] -> PROPFIND /conf/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4168] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4169] -> PROPFIND /conf/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4169] <- 207 text/xml; charset=UTF-8 1ms
+04/Aug/2019:00:15:05 -0500 [4170] -> PROPFIND /etc/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4170] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4171] -> PROPFIND /etc/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4171] <- 207 text/xml; charset=UTF-8 1ms
+04/Aug/2019:00:15:05 -0500 [4172] -> PROPFIND /content/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4172] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4173] -> PROPFIND /content/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4173] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:00:15:05 -0500 [4174] -> PROPFIND /libs/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4174] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:00:15:05 -0500 [4175] -> PROPFIND /libs/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4175] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4176] -> PROPFIND /var/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4176] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4177] -> PROPFIND /var/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4177] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4178] -> PROPFIND /apps/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4178] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:05 -0500 [4179] -> PROPFIND /apps/ HTTP/1.1
+04/Aug/2019:00:15:05 -0500 [4179] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:07 -0500 [4180] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:07 -0500 [4180] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:00:15:08 -0500 [4181] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:08 -0500 [4181] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:08 -0500 [4182] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:08 -0500 [4182] <- 207 text/xml; charset=UTF-8 16ms
+04/Aug/2019:00:15:08 -0500 [4183] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:08 -0500 [4183] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:08 -0500 [4184] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:08 -0500 [4184] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:08 -0500 [4185] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:08 -0500 [4185] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:09 -0500 [4186] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:09 -0500 [4186] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:09 -0500 [4187] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:09 -0500 [4187] <- 207 text/xml; charset=UTF-8 4ms
+04/Aug/2019:00:15:09 -0500 [4188] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:09 -0500 [4188] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:10 -0500 [4189] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:10 -0500 [4189] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:10 -0500 [4190] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:10 -0500 [4190] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:10 -0500 [4191] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:10 -0500 [4191] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:10 -0500 [4192] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:10 -0500 [4192] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:10 -0500 [4193] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:10 -0500 [4193] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:10 -0500 [4194] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:10 -0500 [4194] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:10 -0500 [4195] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:10 -0500 [4195] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:11 -0500 [4196] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:11 -0500 [4196] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:11 -0500 [4197] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:11 -0500 [4197] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:11 -0500 [4198] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:11 -0500 [4198] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:11 -0500 [4199] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:11 -0500 [4199] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:12 -0500 [4200] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:12 -0500 [4200] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:12 -0500 [4201] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:12 -0500 [4201] <- 207 text/xml; charset=UTF-8 15ms
+04/Aug/2019:00:15:12 -0500 [4202] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:12 -0500 [4202] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:12 -0500 [4203] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:15:12 -0500 [4203] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:00:15:13 -0500 [4204] -> PROPFIND /._. HTTP/1.1
+04/Aug/2019:00:15:13 -0500 [4204] <- 404 text/html 1ms
+04/Aug/2019:00:31:42 -0500 [4205] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:31:42 -0500 [4205] <- 207 text/xml; charset=UTF-8 5ms
+04/Aug/2019:00:31:42 -0500 [4206] -> PROPFIND /._. HTTP/1.1
+04/Aug/2019:00:31:42 -0500 [4206] <- 404 text/html 2ms
+04/Aug/2019:00:55:47 -0500 [4207] -> PROPFIND / HTTP/1.1
+04/Aug/2019:00:55:47 -0500 [4207] <- 207 text/xml; charset=UTF-8 7ms
+04/Aug/2019:00:55:47 -0500 [4208] -> PROPFIND /._. HTTP/1.1
+04/Aug/2019:00:55:47 -0500 [4208] <- 404 text/html 4ms
+04/Aug/2019:08:45:25 -0500 [4209] -> PROPFIND / HTTP/1.1
+04/Aug/2019:08:45:25 -0500 [4209] <- 207 text/xml; charset=UTF-8 33ms
+04/Aug/2019:08:45:25 -0500 [4210] -> PROPFIND /._. HTTP/1.1
+04/Aug/2019:08:45:25 -0500 [4210] <- 404 text/html 12ms
+04/Aug/2019:21:24:41 -0500 [4211] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:41 -0500 [4211] <- 207 text/xml; charset=UTF-8 6ms
+04/Aug/2019:21:24:41 -0500 [4212] -> PROPFIND /._. HTTP/1.1
+04/Aug/2019:21:24:41 -0500 [4212] <- 404 text/html 3ms
+04/Aug/2019:21:24:46 -0500 [4213] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4213] <- 207 text/xml; charset=UTF-8 7ms
+04/Aug/2019:21:24:46 -0500 [4214] -> PROPFIND /htl/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4214] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:21:24:46 -0500 [4215] -> PROPFIND /htl/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4215] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:21:24:46 -0500 [4216] -> PROPFIND /home/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4216] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:21:24:46 -0500 [4217] -> PROPFIND /home/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4217] <- 207 text/xml; charset=UTF-8 1ms
+04/Aug/2019:21:24:46 -0500 [4218] -> PROPFIND /oak%3Aindex/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4218] <- 207 text/xml; charset=UTF-8 10ms
+04/Aug/2019:21:24:46 -0500 [4219] -> PROPFIND /oak%3Aindex/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4219] <- 207 text/xml; charset=UTF-8 9ms
+04/Aug/2019:21:24:46 -0500 [4220] -> PROPFIND /conf/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4220] <- 207 text/xml; charset=UTF-8 1ms
+04/Aug/2019:21:24:46 -0500 [4221] -> PROPFIND /conf/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4221] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:21:24:46 -0500 [4222] -> PROPFIND /etc/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4222] <- 207 text/xml; charset=UTF-8 4ms
+04/Aug/2019:21:24:46 -0500 [4223] -> PROPFIND /etc/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4223] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:21:24:46 -0500 [4224] -> PROPFIND /content/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4224] <- 207 text/xml; charset=UTF-8 4ms
+04/Aug/2019:21:24:46 -0500 [4225] -> PROPFIND /content/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4225] <- 207 text/xml; charset=UTF-8 4ms
+04/Aug/2019:21:24:46 -0500 [4226] -> PROPFIND /libs/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4226] <- 207 text/xml; charset=UTF-8 5ms
+04/Aug/2019:21:24:46 -0500 [4227] -> PROPFIND /libs/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4227] <- 207 text/xml; charset=UTF-8 4ms
+04/Aug/2019:21:24:46 -0500 [4228] -> PROPFIND /var/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4228] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:21:24:46 -0500 [4229] -> PROPFIND /var/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4229] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:21:24:46 -0500 [4230] -> PROPFIND /apps/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4230] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:21:24:46 -0500 [4231] -> PROPFIND /apps/ HTTP/1.1
+04/Aug/2019:21:24:46 -0500 [4231] <- 207 text/xml; charset=UTF-8 1ms
+04/Aug/2019:21:24:49 -0500 [4232] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:49 -0500 [4232] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:21:24:50 -0500 [4233] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:50 -0500 [4233] <- 207 text/xml; charset=UTF-8 3ms
+04/Aug/2019:21:24:50 -0500 [4234] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:50 -0500 [4234] <- 207 text/xml; charset=UTF-8 5ms
+04/Aug/2019:21:24:50 -0500 [4235] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:50 -0500 [4235] <- 207 text/xml; charset=UTF-8 2ms
+04/Aug/2019:21:24:50 -0500 [4236] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:50 -0500 [4236] <- 207 text/xml; charset=UTF-8 5ms
+04/Aug/2019:21:24:51 -0500 [4237] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:51 -0500 [4237] <- 207 text/xml; charset=UTF-8 8ms
+04/Aug/2019:21:24:52 -0500 [4238] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:52 -0500 [4238] <- 207 text/xml; charset=UTF-8 8ms
+04/Aug/2019:21:24:57 -0500 [4239] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:24:57 -0500 [4239] <- 207 text/xml; charset=UTF-8 9ms
+04/Aug/2019:21:25:03 -0500 [4240] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:03 -0500 [4240] <- 207 text/xml; charset=UTF-8 6ms
+04/Aug/2019:21:25:03 -0500 [4241] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:03 -0500 [4241] <- 207 text/xml; charset=UTF-8 5ms
+04/Aug/2019:21:25:03 -0500 [4242] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:03 -0500 [4242] <- 207 text/xml; charset=UTF-8 9ms
+04/Aug/2019:21:25:04 -0500 [4243] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:04 -0500 [4243] <- 207 text/xml; charset=UTF-8 6ms
+04/Aug/2019:21:25:04 -0500 [4244] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:04 -0500 [4244] <- 207 text/xml; charset=UTF-8 10ms
+04/Aug/2019:21:25:05 -0500 [4245] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:05 -0500 [4245] <- 207 text/xml; charset=UTF-8 9ms
+04/Aug/2019:21:25:06 -0500 [4246] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:06 -0500 [4246] <- 207 text/xml; charset=UTF-8 10ms
+04/Aug/2019:21:25:06 -0500 [4247] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:06 -0500 [4247] <- 207 text/xml; charset=UTF-8 6ms
+04/Aug/2019:21:25:07 -0500 [4248] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:07 -0500 [4248] <- 207 text/xml; charset=UTF-8 8ms
+04/Aug/2019:21:25:08 -0500 [4249] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:08 -0500 [4249] <- 207 text/xml; charset=UTF-8 9ms
+04/Aug/2019:21:25:09 -0500 [4250] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:09 -0500 [4250] <- 207 text/xml; charset=UTF-8 13ms
+04/Aug/2019:21:25:10 -0500 [4251] -> PROPFIND / HTTP/1.1
+04/Aug/2019:21:25:10 -0500 [4251] <- 207 text/xml; charset=UTF-8 8ms
